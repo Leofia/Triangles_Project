@@ -27,6 +27,7 @@ This project creates a matrix where users can draw a triangle based on the coord
 
 ## Example Run
 ```plaintext
+
 Enter matrix size:
 20
 Enter number 1:
@@ -41,6 +42,7 @@ Enter number 5:
 10
 Enter number 6:
 15
+```
 ## Notes
 Matrix size limit: Large sizes may impact performance. A maximum size of 100 is recommended.
 Input coordinates: Must be within the matrix bounds. Otherwise, the drawing will fail.
