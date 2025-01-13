@@ -25,6 +25,13 @@ This project creates a matrix where users can draw a triangle based on the coord
 ### Step 4: Repeat Input
 - You can enter new coordinates to redraw the matrix with a new triangle.
 
+
+## Notes
+Matrix size limit: Large sizes may impact performance. A maximum size of 100 is recommended.
+Input coordinates: Must be within the matrix bounds. Otherwise, the drawing will fail.
+## Requirements
+Java 8 or later
+A text editor or an IDE
 ## Example Run
 ```plaintext
 
@@ -43,9 +50,3 @@ Enter number 5:
 Enter number 6:
 15
 ```
-## Notes
-Matrix size limit: Large sizes may impact performance. A maximum size of 100 is recommended.
-Input coordinates: Must be within the matrix bounds. Otherwise, the drawing will fail.
-## Requirements
-Java 8 or later
-A text editor or an IDE
