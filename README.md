@@ -41,9 +41,9 @@ Enter number 5:
 10
 Enter number 6:
 15
-Notes
+## Notes
 Matrix size limit: Large sizes may impact performance. A maximum size of 100 is recommended.
 Input coordinates: Must be within the matrix bounds. Otherwise, the drawing will fail.
-Requirements
+## Requirements
 Java 8 or later
 A text editor or an IDE
