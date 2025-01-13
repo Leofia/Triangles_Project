@@ -258,7 +258,4 @@ Sample Input and Output
                                                    
                                                    
 
-0 0
-0 0
-0 0
 
